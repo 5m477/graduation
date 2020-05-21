@@ -10,7 +10,7 @@ This pull request template helps you complete an application to the **Class of 2
 - [x] I have completed the form: `https://airtable.com/shrmuHxu38ZariKJi`
 - [x] My application belongs to:
   - [x] **Tier 1** 📖: I added myself to the Year Book.
-  - [ ] **Tier 2** ✏️: I wrote a post on DEV about a project I built.
+  - [x] **Tier 2** ✏️: I wrote a post on DEV about a project I built.
   - [x] **Tier 3** ✨: I want my project to be highlighted on stream.
 - [x] I understand that a reviewer will merge my pull request after examining it or ask for changes in case needed.
 - [x] I understand I should not tag or add a reviewer to this Pull Request.
